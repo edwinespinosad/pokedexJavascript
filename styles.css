@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.card{
+    width: 18rem;
+    margin: auto;
+}
+
+.card-title{
+    text-transform: capitalize;
+    text-align: center;
+}
